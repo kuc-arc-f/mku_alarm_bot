@@ -11,10 +11,6 @@
 
 ## thanks
 
-* bme280-esp-idf-i2c
-
-https://github.com/yanbe/bme280-esp-idf-i2c
-
 * fs 
 
 https://github.com/joysfera/esp-idf-spiffs
